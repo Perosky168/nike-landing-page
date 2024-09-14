@@ -1,5 +1,5 @@
 import Hero from './Hero';
-import PorpulaProducts from './PorpularProducts';
+import PopulaProducts from './PopularProducts';
 import SuperQuality from './SuperQuality';
 import Services from './Services';
 import SpecialOffers from './SpecialOffers';
@@ -9,7 +9,7 @@ import Footer from './Footer';
 
 export {
   Hero,
-  PorpulaProducts,
+  PopulaProducts,
   SuperQuality,
   Services,
   SpecialOffers,
